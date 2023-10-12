@@ -1,0 +1,46 @@
+.divali_main_baground{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.divali_main_baground_heading_selecton{
+    font-size: 36px;
+    font-family: "Caveat";
+    width:220px;
+    color: wheat;
+    padding: 30px;
+}
+
+.divali_baground_bottom{
+    background-color: #e6f6ff;
+    text-align: center;
+    padding: 15px;
+    
+}
+.divali_card_item{
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    padding: 16px;
+    border-radius: 20x;
+    margin: 15px;
+}
+
+.divali_card_image{
+    height: 70px;
+    width: 70px;
+}
+.divali_card_name{
+    font-family: "Roboto" ;
+    font-size:15px;
+    text-align: center;
+    color: #616e7c;
+    font-weight: normal;
+}
+.divali_card_price{
+    color:  #323f4b;
+    font-family: "roboto";
+    font-size: 36px;
+    font-weight: 500;
+}

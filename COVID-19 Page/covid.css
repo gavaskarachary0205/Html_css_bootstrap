@@ -1,0 +1,121 @@
+.main_bg_card{
+    background-color: #3ebd93;
+    height: 150vh;
+    background-size: cover;
+    padding: 3px;
+
+}
+.bg_card{
+    background-color: #f3f7f5;
+    margin: 3px;
+    height: 150vh;
+    background-size: cover;
+}
+.top-heading{
+    font-size: 25px;
+    padding: 5px;
+    font-family: "Roboto";
+    margin: 3px;
+}
+#button{
+    font-size: 13px;
+    height: 38px;
+    width: 130px;
+    text-align: center;
+    background-color: #0c74eb;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 18px;
+    color: white;
+}
+.image1{
+    margin: 12px;
+}
+
+.card1{ 
+    
+    background-color: #caddf119            ;
+    border-radius: 15px;
+    margin: 8px;
+}
+.card1-2{
+    
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    
+}
+.card1_paragrap{
+    color: #707070;
+}
+.image2{
+    margin: 12px;
+}
+.heading3{
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    margin: 8px;
+    padding: 10px;
+    
+}
+.card3{
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: #3ebd93;
+    color: white;
+    margin: 8px;
+
+
+}
+.image3{
+    text-align: center;
+    margin-left: 15px;
+    padding: 8px;
+    
+    
+}
+.card3_paragraph{
+
+    text-align: center;
+}
+.card4{
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: #e668a7;
+    color: white;
+    margin: 8px;
+}
+.card5{
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: #e368fc;
+    color: white;
+    margin: 8px;
+
+
+}
+.heading4{
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    margin: 8px;
+    padding: 10px;
+    
+}
+.card6{ 
+    
+    background-color: #e12d3919           ;
+    border-radius: 15px;
+    margin: 8px;
+}
+.card6-2{
+    
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    padding: 8px;
+}
